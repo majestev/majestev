@@ -56,12 +56,6 @@ Estou constantemente estudando novas tecnologias e desenvolvendo projetos para e
 
 ---
 
-## Estatísticas do GitHub
-
-<p align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=majestev&show_icons=true&theme=tokyonight"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majestev&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
